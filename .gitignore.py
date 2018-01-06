@@ -7,20 +7,3 @@ venv/
 # SQLite database files
 
 *.sqlite3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
